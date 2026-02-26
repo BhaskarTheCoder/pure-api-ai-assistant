@@ -1,4 +1,4 @@
-# Pure API AI Assistant without MCP
+# Pure API AI Assistant without MCP / with MCP
 
 🎯 Features
 Your CLI assistant will:
