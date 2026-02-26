@@ -1,6 +1,7 @@
+# Pure API AI Assistant without MCP
+
 🎯 Features
 Your CLI assistant will:
-    - Send Email (Gmail API)
     - Fetch Weather (Weather API)
     - Read Local File
     - Query PostgreSQL
@@ -9,7 +10,6 @@ Your CLI assistant will:
 
 🎯 Prerequisites
     - Python 3.12
-    - Gmail API credentials
     - Weather API credentials
     - PostgreSQL credentials
     - LLM credentials
